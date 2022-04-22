@@ -1,0 +1,35 @@
+
+
+{ "categories": [
+  {
+    "_id": 101,
+    "categoryName": "GreetingCard",
+    "img":
+      "https://ih1.redbubble.net/image.363608787.6082/papergc,300x,w,f8f8f8-pad,600x600,f8f8f8.u1.jpg",
+  },
+  {
+    "_id": 102,
+    "categoryName": "SpiralNotebook",
+    "img":
+      "https://ih1.redbubble.net/image.1541732139.3218/sn,x600-pad,600x600,f8f8f8.u8.jpg",
+  },
+  {
+    "_id": 103,
+    "categoryName": "FramedArt",
+    "img":
+      "https://ih1.redbubble.net/image.788504009.8316/paperpc,450x,w,f8f8f8-pad,600x600,f8f8f8.u2.jpg",
+  },
+  {
+    "_id": 104,
+    "categoryName": "Journal",
+    "img":
+      "https://ih1.redbubble.net/image.1663158047.5357/hj,496x-pad,600x600,f8f8f8.u1.jpg",
+  },
+  {
+    "_id": 105,
+    "categoryName": "Postcard",
+    "img":
+      "https://ih1.redbubble.net/image.932915050.0564/paperpc,450x,w,f8f8f8-pad,600x600,f8f8f8.jpg",
+  },
+]
+}
