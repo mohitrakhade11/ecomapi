@@ -1,7 +1,5 @@
-
-
-{ "categories": [
-  {
+{"categories": [
+ {
     "_id": 101,
     "categoryName": "GreetingCard",
     "img":
@@ -31,5 +29,4 @@
     "img":
       "https://ih1.redbubble.net/image.932915050.0564/paperpc,450x,w,f8f8f8-pad,600x600,f8f8f8.jpg"
   }
-]
-}
+    ]}
